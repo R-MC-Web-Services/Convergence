@@ -393,8 +393,8 @@ html {
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url("assets/fonts/fontawesome-webfont.eot?v=4.7.0");
-  src: url("assets/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0") format("embedded-opentype"), url("assets/fonts/fontawesome-webfont.woff2?v=4.7.0") format("woff2"), url("assets/fonts/fontawesome-webfont.woff?v=4.7.0") format("woff"), url("assets/fonts/fontawesome-webfont.ttf?v=4.7.0") format("truetype"), url("assets/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular") format("svg");
+  src: url("assets/fonts/fontawesome-webfont.eot");
+  src: url("assets/fonts/fontawesome-webfont.eot") format("embedded-opentype"), url("assets/fonts/fontawesome-webfont.woff2") format("woff2"), url("assets/fonts/fontawesome-webfont.woff") format("woff"), url("assets/fonts/fontawesome-webfont.ttf") format("truetype"), url("assets/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal; }
 .fa {
@@ -3443,7 +3443,7 @@ img.banner {
   min-height: auto; }
 
 .parents .title-bar {
-  background: url("assets/img/parents-title.jpg") no-repeat center center fixed;
+  background: url("images/parents-title.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -3452,7 +3452,7 @@ img.banner {
   background-position: 0 0; }
 
 .educator .title-bar {
-  background: url("assets/img/edu-title.jpg") no-repeat center center fixed;
+  background: url("images/edu-title.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -3461,7 +3461,7 @@ img.banner {
   background-position: 0 0; }
 
 .students .title-bar {
-  background: url("assets/img/students-title.jpg") no-repeat center center fixed;
+  background: url("images/students-title.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -3470,7 +3470,7 @@ img.banner {
   background-position: 0 0; }
 
 .faq .title-bar {
-  background: url("assets/img/faq-title.jpg") no-repeat center center fixed;
+  background: url("images/faq-title.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -3479,7 +3479,7 @@ img.banner {
   background-position: 0 0; }
 
 .apply .title-bar {
-  background: url("assets/img/apply-title.jpg") no-repeat center center fixed;
+  background: url("images/apply-title.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -3710,7 +3710,7 @@ img.banner {
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background: url("assets/img/kids-learning_image.jpg") no-repeat center center fixed;
+  background: url("images/kids-learning_image.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -4694,7 +4694,7 @@ footer {
       background-position: -100px 0; } }
   @media screen and (min-width: 768px) and (max-width: 1024px) {
     .class-details {
-      background: url("assets/img/plant3.jpg") no-repeat center center fixed;
+      background: url("images/plant3.jpg") no-repeat center center fixed;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
