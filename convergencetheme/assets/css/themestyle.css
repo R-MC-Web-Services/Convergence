@@ -2910,9 +2910,13 @@ header {
   right: 0; }
 
 .sub header #main-logo .logo {
-  width: 10rem;
+  /* width: 10rem;
   max-width: 40%;
-  height: 80px; }
+  height: 80px;  */
+  width: 18rem;
+  max-width: 60%;
+  height: 80px;
+}
 
 .landing, .cta {
   -webkit-transition: all 0.3s ease-in-out;

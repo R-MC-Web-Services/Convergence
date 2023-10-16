@@ -56,7 +56,7 @@
         <div class="container">
           <header>
             <a href="https://convergence.rmc.edu" id="main-logo">
-              <img class="logo" src="wp-content/themes/convergencetheme/assets/img/rm-logo.svg" alt="Randolph Macon Logo">
+              <img class="logo" src="wp-content/themes/convergencetheme/assets/img/rm-clogo.svg" alt="Randolph Macon Logo">
             </a>
             <div class="center">A High School Youth Theology Institute on Faith and Science</div>
             <!-- <div class="language">
@@ -154,7 +154,7 @@
                 <div class="bottom-action">
                   <h2>Have Questions?</h2>
                   <p> We are eager to help. If you don’t see an answer in the FAQ’s, just send us an email to <a href="mailto:convergence@rmc.edu">convergence@rmc.edu</a> . You may also call Director, Randolph-Macon College Chaplain Kendra Grimes at 804-752-7374. </p>
-                  <a href="https://convergence.rmc.edu/faq" class="btn">Check Out Our FAQ's</a>
+                  <a href="/faq" class="btn">Check Out Our FAQ's</a>
                 </div>
               </section>
             </div>
@@ -165,17 +165,17 @@
         <nav class="sidebar">
           <ul>
             <li class="active">
-              <a href="https://convergence.rmc.edu">Home</a>
+              <a href="/">Home</a>
             </li>
             <li>
-              <a href="https://convergence.rmc.edu/faq">FAQ's</a>
+              <a href="/faq">FAQ's</a>
             </li>
             <!-- <li>
-              <a href="https://convergence.rmc.edu/apply">Apply Now</a>
+              <a href="/apply">Apply Now</a>
             </li> -->
-            <li>
-              <a href="https://convergence.rmc.edu/resources">Convergence Liturgical &amp;Educational Resources</a>
-            </li>
+            <!-- <li>
+              <a href="/resources">Convergence Liturgical &amp;Educational Resources</a>
+            </li> -->
             <li class="social-icons">
               <span>Follow Us:</span>
               <ul>

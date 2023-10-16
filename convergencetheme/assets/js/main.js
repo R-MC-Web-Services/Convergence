@@ -1,6 +1,9 @@
-$(document).ready(function() {
-    $('.expander-trigger').click(function(){
-      $(this).toggleClass("expander-hidden");
+(function () {
+
+  $(document).ready(function() {
+      $('.expander-trigger').click(function(){
+        $(this).toggleClass("expander-hidden");
+      });
     });
-  });
   
+}());
