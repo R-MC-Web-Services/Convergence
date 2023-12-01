@@ -69,7 +69,7 @@
                               <div>
                                 <article>
                                   <h2>Program Overview</h2>
-                                  <p>Young people often hear that what they read in the Bible and learn in church has nothing to do with what they study in science classes &ndash;or they are told religion and science are always in conflict with each other. At Randolph-Macon College, we explore the convergence of faith and science. We are excited to return to an in person experience for high school youth who want to discover the realm where faith and science meet. Join us July 18th - 23rd, 2023 as Randolph-Macon College faculty, staff, and respected friends of the College lead you in exploring the convergence of faith and science. Take a look at this video highlighting the Convergence 2018 experience!</p>
+                                  <p>Young people often hear that what they read in the Bible and learn in church has nothing to do with what they study in science classes &ndash;or they are told religion and science are always in conflict with each other. At Randolph-Macon College, we explore the convergence of faith and science. We are excited to return to an in person experience for high school youth who want to discover the realm where faith and science meet. Join us June 25th - 30th, 2024 as Randolph-Macon College faculty, staff, and respected friends of the College lead you in exploring the convergence of faith and science. Take a look at this video highlighting the Convergence 2018 experience!</p>
                                   <p>
                                     <br />
                                   </p>
@@ -113,8 +113,8 @@
                     <ul>
                       <li>Enjoy hands-on activities alongside presenters &nbsp;as you consider the intersection of faith and science.</li>
                       <li>Ask questions about how your future vocation might grow out of your interests in faith and in science.</li>
-                      <li> Discover faith and science career opportunities from an expert in their field, in our POPular Science presentations. <br />
-                      </li>
+                      <!-- <li> Discover faith and science career opportunities from an expert in their field, in our POPular Science presentations. <br />
+                      </li> -->
                     </ul>
                     <ul></ul>
                   </article>
@@ -139,13 +139,13 @@
                                   <article>
                                     <h2>What Should I Expect?</h2>
                                     <p>At Convergence, expect to learn and grow. Come to engage material usually presented at the college level but made available to you in this unique experience.</p>
-                                    <p>Convergence is excited to offer a six-day residential experience for new and returning campers to dive into the convergence of faith and science with engaging presentation topics for 2023.&nbsp;The cost to participate is $350 per student, and includes all Institute-related expenses, housing, and meals. Need-based scholarships are available. </p>
+                                    <p>Convergence is excited to offer a six-day residential experience for new and returning campers to dive into the convergence of faith and science with engaging presentation topics for 2024.&nbsp;The cost to participate is $350 per student, and includes all Institute-related expenses, housing, and meals. Need-based scholarships are available. </p>
                                     <p>Expect to learn not only in the classroom, but also with hands-on activities around the Randolph-Macon College campus and the Central Virginia community. Cultivate new and lasting friendships with other high school students who share your interests and your faith.</p>
                                     <p> Participants are encouraged apply early, and those who attend will receive a $1,000 scholarship to Randolph-Macon College. <br />
                                       <br />
-                                      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKHBATnIgFTVdkGIiS_5mV8H7wq_x_cClAFCqNYUjMswAUbQ/viewform" target="_blank" class="btn">Apply Now &raquo;</a>
+                                      <a href="https://docs.google.com/forms/d/1QCPdzzA76JaphbC7Rdq2EnpvR_wlzNMdQa73DZoV1ok/viewform" target="_blank" class="btn">Apply Now &raquo;</a>
                                       <br />
-                                      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfzY0n37FY0sM8PzmRzXWlC0ZD9usXfv8TEjd8NJL_pFBXBoA/viewform" target="_blank" class="btn">Nominate a Student &raquo;</a>
+                                      <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8Lioqjir2Ht99McP3ORrG_8WLAZ5bVFZNPKOmGBaLgob06Q/viewform" target="_blank" class="btn">Nominate a Student &raquo;</a>
                                     </p>
                                     <p>&nbsp;</p>
                                     <p>&nbsp;</p>
@@ -165,7 +165,7 @@
                           <div>
                             <div>
                               <div>
-                                <div>
+                                <!-- <div>
                                   <h2>2023 Convergence</h2>
                                   <p>
                                     <strong>Tuesday July 18 through Sunday July 23</strong>
@@ -188,7 +188,7 @@
                                   <br />
                                   <strong>SUNDAY JULY 23</strong>
                                   <br /> Week in Review &nbsp; <br /> Worship Service at Duncan Memorial UMC <br />
-                                </div>
+                                </div> -->
                               </div>
                             </div>
                           </div>

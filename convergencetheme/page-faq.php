@@ -195,10 +195,7 @@
                         <h3> Is my child required to have the COVID-19 vaccine to attend camp? </h3>
                       </a>
                       <div style="display:none;" class="collapse multi-collapse">
-                        <p>While we cannot require your child to take the COVID-19 vaccine to attend camp, we do take health and safety of any kind very seriously. If your child is vaccinated, please share this with us by sending a copy of their vaccination records. If they are not, we will provide a COVID test for them via mail before camp, and during registration on July 15th. This helps us ensure all campers are safe during their stay. If your child tests positive during registration or at any time during their stay at RMC, we ask that you come pick them up immediately, so we may continue to operate as safely as possible.</p>
-                        <ul>
-                          <li></li>
-                        </ul>
+                        While we cannot require your child to take the COVID-19 vaccine to attend camp, we do take health and safety of any kind very seriously. If your child is vaccinated, please share this with us by sending a copy of their vaccination records. If they are not, we will provide a COVID test for them via mail before camp, and during registration on July 15th. This helps us ensure all campers are safe during their stay. If your child tests positive during registration or at any time during their stay at RMC, we ask that you come pick them up immediately, so we may continue to operate as safely as possible.
                       </div>
                     </li>
                     <li class="expandlistitem">
@@ -206,10 +203,9 @@
                         <h3> Are masks required during camp? </h3>
                       </a>
                       <div style="display:none;" class="collapse multi-collapse">
-                        <p>At present, masks are considered optional on-campus for all vaccinated persons. "We encourage you to support each other and to be thoughtful about your choices with respect to those around you.&nbsp; <strong>In particular, the College recognizes that members of our community may choose to continue to wear a</strong>
+                        At present, masks are considered optional on-campus for all vaccinated persons. "We encourage you to support each other and to be thoughtful about your choices with respect to those around you.&nbsp; <strong>In particular, the College recognizes that members of our community may choose to continue to wear a</strong>
                           <strong>&nbsp;mask&nbsp;</strong>
                           <strong>and supports those who do so."&nbsp;</strong>We will continue to follow the lead of our Core Planning Team and the CDC as it pertains to the safest practices for all members and visitors of our campus.
-                        </p>
                       </div>
                     </li>
                   </ul>

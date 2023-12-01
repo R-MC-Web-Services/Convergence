@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title><?php the_title() ?> </title>
+    <title><?php the_title() ?> | Convergence @ Randolph-Macon College - A High School Youth Theology Institute on Faith and Science </title>
     <link rel="dns-prefetch" href="//u.heatmap.it" />
     <link rel="dns-prefetch" href="//www.googletagmanager.com" />
     <link rel="dns-prefetch" href="//www.google-analytics.com" />
